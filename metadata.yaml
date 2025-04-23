@@ -1,0 +1,36 @@
+_repo: A-new-dictionary-of-the-terms-ancient-and-modern-of-the-canting-crew-in-its-several-tribes-of__75897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: B. E.
+    aliases:
+    - BE
+    - E., B.
+    gutenberg_agent_id: '58209'
+    url: http://www.gutenberg.org/2009/agents/58209
+description: ''
+gutenberg_issued: '2025-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75897'
+language: en
+pgterms:marc904: http://archive.org/details/newdictionaryoft00be
+pgterms:marc905: 20130609095403eauthor
+pgterms:marc906: '1699'
+pgterms:marc907: GB
+production_note: Chris Curnow and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bW. Hawes, P. Gilbourne and W. Davis, $c1699, pubdate
+  1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romanies -- Languages'
+- !lcsh 'English language -- Slang -- Dictionaries'
+- !lcc 'PE'
+- GITenberg
+title: 'A new dictionary of the terms ancient and modern of the canting crew in its
+  several tribes of gypsies, beggers, thieves, cheats, &c. : $b With an addition of
+  some proverbs, phrases, figurative speeches, &c.'
+url: http://www.gutenberg.org/ebooks/75897
