@@ -1,5 +1,8 @@
 _repo: A-new-dictionary-of-the-terms-ancient-and-modern-of-the-canting-crew-in-its-several-tribes-of__75897
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75897-h/images/cover.jpg
 creator:
   author:
     agent_name: B. E.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '58209'
     url: http://www.gutenberg.org/2009/agents/58209
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75897#A-new-dictionary-of-the-terms-ancient-and-modern-of-the-canting-crew-in-its-several-tribes-of_
 gutenberg_issued: '2025-04-17'
 gutenberg_type: Text
 identifiers:
